@@ -45,8 +45,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Zalken-Enzo/Zalken-Enzo/output/snake.svg" alt="Snake animation" />
-
-###
